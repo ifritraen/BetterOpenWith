@@ -2,7 +2,10 @@
 
 # Better Open With - a better way to open files.
 
+### (The purpose of this fork is to reintroduce this app to thriving open source community. Please consider give star and contribute to the main repo)
+
 The application is no longer actively developed but I'll happily accept fixes and new features. Feel free to send a PR or [Contact Me](https://www.giorgi.dev/#contact) if you would like to become a maintainer.
+
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
 alt="Get it on Google Play"
